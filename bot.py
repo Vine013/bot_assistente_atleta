@@ -105,7 +105,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
 
 # Configuração do bot
 def main() -> None:
-    application = Application.builder().token("7772461182:AAHPF6HS_06fbsf0zG5AKJ7dsgWPqS0XcYk").build()
+    application = Application.builder().token("SEU-TOKEN-AQUI").build()
 
     # Adiciona os comandos e handlers
     application.add_handler(CommandHandler("start", start))
