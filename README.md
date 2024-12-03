@@ -4,7 +4,12 @@ Este é um bot para Telegram que ajuda usuários a criar **rotinas personalizada
 
 ### 🎥 Demonstração
 
-![image](https://github.com/user-attachments/assets/28a927fa-1483-4504-b630-77d8754c0f71){width=300 height=200}
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/28a927fa-1483-4504-b630-77d8754c0f71"
+    height="300"  
+  />
+</p>
 
 ## 📋 Funcionalidades
 
